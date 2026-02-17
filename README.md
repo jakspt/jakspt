@@ -63,3 +63,4 @@ Selected articles (in German) published in **Der Standard**:
 ## GitHub Stats
 
 [![Jakob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakspt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakspt)](https://github.com/anuraghazra/github-readme-stats)
