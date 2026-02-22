@@ -62,5 +62,12 @@ Selected articles (in German) published in **Der Standard**:
 
 ## GitHub Stats
 
-[![Jakob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakspt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakspt)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="middle" src="https://github-readme-stats-jakspt.vercel.app/api?username=jakspt&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="Jakob's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="middle" src="https://github-readme-stats-jakspt.vercel.app/api/top-langs/?username=jakspt&count_private=true&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
+  </a>
+</div>
